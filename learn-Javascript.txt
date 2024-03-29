@@ -1,0 +1,6 @@
+Capaian selama belajar bahasa Javascript
+-menguasai dasar-dasar Javascript
+-menguasai Javascript DOM
+-menguasai framework nodejs
+-menguasai oop Javascript
+-project lebih kompleks
